@@ -1,0 +1,10 @@
+{
+  "name": "rehype-emoji-accessibility",
+  "version": "1.0.0",
+  "description": "Rehype plugin for adding accessibility for emojis",
+  "main": "index.js",
+  "repository": "git@github.com:DawChihLiou/rehype-emoji-accessibility.git",
+  "author": "Daw-Chih Liou <dawochih.liou@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
